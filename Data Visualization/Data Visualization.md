@@ -1,7 +1,7 @@
 No.1 Bar Chart: Number of Submissions of Different Film Categories
 ------------------------------------------------------------------
 
-![] https://github.com/madelinezL/Austin-Film-Festival/blob/1c470af427c21637101efd4a2ea4c93a7de9c131/Data%20Visualization/unnamed-chunk-2-1.png
+![]
 ![](Data Visualization%20/unnamed-chunk-2-2.png)
 ![](Data Visualization%20/unnamed-chunk-2-3.png)
 ![](Data Visualization%20/unnamed-chunk-2-4.png)
