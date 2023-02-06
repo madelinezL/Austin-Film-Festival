@@ -1,2 +1,4 @@
 # Austin-Film-Festival
-Data Internship at Austin Film Festival (May 2019)
+This folder includes the work during my data Internship at Austin Film Festival in May 2019. <br/><br/>
+-Data Visulizations
+-Table Summaries
