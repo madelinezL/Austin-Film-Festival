@@ -1,2 +1,2 @@
 # Austin-Film-Festival
-Data Internship at AFF (May 2019)
+Data Internship at Austin Film Festival (May 2019)
